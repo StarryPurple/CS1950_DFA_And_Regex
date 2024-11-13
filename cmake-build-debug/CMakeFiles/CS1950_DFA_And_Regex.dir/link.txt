@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CS1950_DFA_And_Regex.dir/main.cpp.o -o CS1950_DFA_And_Regex 

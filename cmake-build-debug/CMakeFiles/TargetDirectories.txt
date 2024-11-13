@@ -1,0 +1,3 @@
+/home/starr/Projects/CS1950_DFA_And_Regex/cmake-build-debug/CMakeFiles/CS1950_DFA_And_Regex.dir
+/home/starr/Projects/CS1950_DFA_And_Regex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/starr/Projects/CS1950_DFA_And_Regex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
